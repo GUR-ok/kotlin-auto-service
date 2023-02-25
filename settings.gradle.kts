@@ -11,3 +11,4 @@ pluginManagement {
 }
 
 include ("m1l1-quickstart")
+include ("hw02-doc")
